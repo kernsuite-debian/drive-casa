@@ -1,3 +1,9 @@
-*.pyc
-*.fits
-*.ms
+.pybuild/
+debian/debhelper-build-stamp
+debian/*.debhelper.log
+debian/*.postinst.debhelper
+debian/*.prerm.debhelper
+debian/*.substvars
+debian/files
+debian/drive-casa/
+*.egg-info/

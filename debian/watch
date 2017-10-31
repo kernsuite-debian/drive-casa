@@ -1,0 +1,3 @@
+version=3
+opts=filenamemangle=s/.+\/v?(\d\S+)\.tar\.gz/drive-casa-$1\.tar\.gz/ \
+  https://github.com/timstaley/drive-casa/tags .*/v?(\d\S+)\.tar\.gz

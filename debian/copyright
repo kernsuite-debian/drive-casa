@@ -1,10 +1,10 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: msutils
-Source: <url://example.com>
+Upstream-Name: drive-casa
+Source: https://github.com/timstaley/drive-casa
 
 Files: *
 Copyright: 2014,2015, Tim Staley
-License: BSD
+License: BSD3
 
 Files: debian/*
 Copyright: 2017 Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>

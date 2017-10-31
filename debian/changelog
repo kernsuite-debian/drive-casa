@@ -1,3 +1,11 @@
+drive-casa (0.7.6-1) xenial; urgency=medium
+
+  * make debian files mit
+  * add more debian files
+  * Imported Upstream version 0.7.6
+
+ -- KERN packaging <packaging@kernsuite.info>  Tue, 31 Oct 2017 17:15:34 +0200
+
 drive-casa (0.7.4-1) xenial; urgency=low
 
   * Initial release

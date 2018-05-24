@@ -1,3 +1,9 @@
+drive-casa (0.7.6-1kern1) bionic; urgency=medium
+
+  * new upstream release
+
+ -- KERN packaging <packaging@kernsuite.info>  Thu, 24 May 2018 14:03:21 +0000
+
 drive-casa (0.7.6-1) xenial; urgency=medium
 
   * make debian files mit
